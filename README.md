@@ -1,6 +1,4 @@
-Source link:
----
-https://wiki.archlinux.org/title/Cinnamon#Portable_keybindings
+Source link: https://wiki.archlinux.org/title/Cinnamon#Portable_keybindings
 
 To export the keyboard shortcut keys:
 ```
